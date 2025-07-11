@@ -5,5 +5,6 @@
 	path = kavier
 	url = https://github.com/atlarge-research/Kavier
 [submodule "LLMTraceArchive"]
-    path = LLMTraceArchive
-    url = https://github.com/atlarge-research/LLMTraceArchive
+	path = LLMTraceArchive
+	url = https://github.com/atlarge-research/LLMTraceArchive
+	branch = master
