@@ -1,3 +1,7 @@
 [submodule "opendc"]
 	path = opendc
 	url = https://github.com/atlarge-research/opendc
+[submodule "kavier"]
+	path = kavier
+	url = https://github.com/Radu-Nicolae/Kavier
+	branch = main
