@@ -8,3 +8,6 @@
 	path = LLMTraceArchive
 	url = https://github.com/atlarge-research/LLMTraceArchive
 	branch = master
+[submodule "tracer"]
+	path = tracer
+	url = https://github.com/atlarge-research/Tracer.git
