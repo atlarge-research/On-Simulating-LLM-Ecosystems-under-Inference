@@ -13,7 +13,8 @@ Lastly, through experiments with a prototype and real-world traces, (i) we measu
 ### This repository
 This repository is the home of Kavier, the first scientific instrument for predicting performance, sustainability, and efficiency of LLM ecosystems under inference, through discrete-event, cache-aware simulation.
 
-- [Kavier](https://github.com/atlarge-research/Kavier)  
-- [LLM Trace Archive](https://zenodo.org/record/15858418)  
-- [Tracer](https://github.com/atlarge-research/Tracer)  
-- [Thesis (PDF)](thesis.pdf)
+0. [Thesis (PDF)](_thesis.pdf)
+1. [Kavier](https://github.com/atlarge-research/Kavier)  
+2. [LLM Trace Archive](https://zenodo.org/record/15858418)  
+3. [Tracer](https://github.com/atlarge-research/Tracer)  
+4. [Reproducibility Capsule](https://github.com/atlarge-research/Kavier/tree/master/docs/reproducibility_capsule)
