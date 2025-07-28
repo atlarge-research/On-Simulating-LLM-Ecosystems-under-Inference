@@ -1,4 +1,4 @@
-# On-Simulating-LLM-Ecosystems-under-Inference
+# On Simulating LLM Ecosystems under Inference
 
 ### Abstract
 
